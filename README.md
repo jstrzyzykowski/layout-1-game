@@ -1,7 +1,5 @@
 # layout-1-game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ![](/project-showcase.jpg)
 
 ### Summary
